@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As an accomplished technical writer, I am always eager to explore how emerging technologies and systems function, which fuels my passion for developing effective content strategies. My interest in organization techniques and information architectures drives me to create clear and structured content that enhances user understanding and engagement.
+As an accomplished technical writer, I am always eager to explore emerging technologies and systems functionality, which fuels my passion for developing effective content strategies. My interest in productive organization techniques and information architectures drives me to create clear and structured content that enhances user understanding and engagement.
 
 Visit my [GitHub Pages](https://hguthrie.github.io).
 
