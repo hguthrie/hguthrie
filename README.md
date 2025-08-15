@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+As an accomplished technical writer, I am always eager to explore how emerging technologies and systems function, which fuels my passion for developing effective content strategies. My interest in organization techniques and information architectures drives me to create clear and structured content that enhances user understanding and engagement.
+
+Visit my [GitHub Pages](https://hguthrie.github.io).
+
 <!--
 **hguthrie/hguthrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
