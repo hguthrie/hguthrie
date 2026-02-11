@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📚 I am happy to attend major planning and brainstorming events, but 
 
 -->
+
+![GitHub Game: Space Shooter](game.gif)
